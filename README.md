@@ -1,1 +1,5 @@
-# Nike-Sales-Analysis
+# Nike Shoes Sales Analysis
+
+
+### Objective 
+
