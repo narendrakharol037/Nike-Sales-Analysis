@@ -43,3 +43,16 @@
 
 #### Dashboard 2
 ![Nike2](https://github.com/user-attachments/assets/c0c8b13c-9779-4a69-a53e-a0f66c3be767)
+
+
+### Insights I
+
+☑️ Highest Revenue: Achieved in 2021 with $6.8M, followed by 2020 with $1.8M.
+
+☑️ Top Retailer: West Gear led the sales with $2.4M, followed by Foot Locker and Sports Direct.
+
+☑️ Leading Region: The West region contributed the highest sales at 26.99%, followed by the Northeast and Southeast regions.
+
+☑️ Top Sales Method for Units Sold: The online sales method accounted for 38.38% of total units sold, followed by outlet and in-store sales.
+
+☑️ Top Sales Method for Revenue: In-store sales generated the highest revenue at 41.33%, followed by outlet and online sales.
